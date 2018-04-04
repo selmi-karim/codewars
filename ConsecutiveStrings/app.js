@@ -1,3 +1,4 @@
+
 const longestConsec = (strings, count) => {
     let n = strings.length;
     if (!n || count <= 0 || count > strings.length)

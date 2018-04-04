@@ -1,4 +1,3 @@
-// TODO
 Array.prototype.square = function(){
 console.log(this)
 var res= [];
