@@ -1,0 +1,25 @@
+var readline = require('readline'),
+  rl = readline.createInterface(process.stdin, process.stdout)
+var testCase = -1
+var testNumber = 0
+rl.on('line', function(line) {
+	if (testCase==-1) testCase=+line
+	//
+	else {
+		// procedure 
+		console.log('Case #'+testNumber+': '+
+		result(line.split(' ')[0],line.split(' ')[1]))
+
+	}
+	testNumber++
+	if(testNumber>testCase) process.exit(0)
+  	
+}).on('close', function() {
+  process.exit(0);
+});
+
+function result(minHack,robotInstr){
+console.log(minHack+'**'+robotInstr)
+		
+	return 0
+}
