@@ -11,7 +11,6 @@ function erathosthen() {
         }
     }
 }
-
 function total(arr) {
     erathosthen()
     let res = 0;
