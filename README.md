@@ -2,5 +2,5 @@
 
 
 CodeWars solutions by JavaScript
-https://www.codewars.com/users/karimation
+[link](https://www.codewars.com/users/karimation)
 
