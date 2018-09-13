@@ -20,4 +20,3 @@ function total(arr) {
     return res
 };
 
-total(['15','45','5'])
