@@ -1,7 +1,7 @@
 # CodeWars-JavaScript
 
 
-CodeWars solutions by JavaScript
+CodeWars solutions written in Javascript and Python
 
 [link](https://www.codewars.com/users/karimation)
 
