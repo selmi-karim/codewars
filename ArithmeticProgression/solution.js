@@ -1,6 +1,6 @@
 
-function arithmeticSequenceElements(a,r,n) {
-  var ret = [a]
+function arithmeticSequnceElements(a,r,n) {
+  var ret = [a];
   while (--n) ret.push(a+=r);
-  return ret.join(', ')
+  return ret.join(', ');
 }
